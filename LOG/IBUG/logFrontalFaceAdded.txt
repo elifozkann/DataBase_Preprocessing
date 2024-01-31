@@ -1,0 +1,114 @@
+Added Frontal Image Count: 1 - 004 - 0.93689954 - IBUG_image_004_1_0.jpg
+Added Frontal Image Count: 2 - 005 - 0.9314776 - IBUG_image_005_1_0.jpg
+Added Frontal Image Count: 3 - 006 - 0.9291814 - IBUG_image_006_0.jpg
+Added Frontal Image Count: 4 - 007 - 0.9285266 - IBUG_image_007_0.jpg
+Added Frontal Image Count: 5 - 008 - 0.92083037 - IBUG_image_008_1_0.jpg
+Added Frontal Image Count: 6 - 010 - 0.927888 - IBUG_image_010_1_0.jpg
+Added Frontal Image Count: 7 - 011 - 0.9283263 - IBUG_image_011_1_0.jpg
+Added Frontal Image Count: 8 - 012 - 0.92057383 - IBUG_image_012_0.jpg
+Added Frontal Image Count: 9 - 013 - 0.9004715 - IBUG_image_013_0.jpg
+Added Frontal Image Count: 10 - 014 - 0.900027 - IBUG_image_014_0.jpg
+Added Frontal Image Count: 11 - 015 - 0.9110814 - IBUG_image_015_1_0.jpg
+Added Frontal Image Count: 12 - 016 - 0.9294059 - IBUG_image_016_1_0.jpg
+Added Frontal Image Count: 13 - 017 - 0.9220083 - IBUG_image_017_1_0.jpg
+Added Frontal Image Count: 14 - 018 - 0 - IBUG_image_018_0.jpg Low Confidence! 
+Added Frontal Image Count: 15 - 019 - 0.91805065 - IBUG_image_019_1_0.jpg
+Added Frontal Image Count: 16 - 020 - 0.91213703 - IBUG_image_020_1_0.jpg
+Added Frontal Image Count: 17 - 021 - 0.9330561 - IBUG_image_021_1_0.jpg
+Added Frontal Image Count: 18 - 022 - 0.9339629 - IBUG_image_022_0.jpg
+Added Frontal Image Count: 19 - 023 - 0.903116 - IBUG_image_023_1_0.jpg
+Added Frontal Image Count: 20 - 024 - 0.9020887 - IBUG_image_024_1_0.jpg
+Added Frontal Image Count: 21 - 025 - 0.92895496 - IBUG_image_025_1_0.jpg
+Added Frontal Image Count: 22 - 026 - 0.93485016 - IBUG_image_026_1_0.jpg
+Added Frontal Image Count: 23 - 027 - 0.9415773 - IBUG_image_027_0.jpg
+Added Frontal Image Count: 24 - 028 - 0.9222478 - IBUG_image_028_0.jpg
+Added Frontal Image Count: 25 - 029 - 0.90748316 - IBUG_image_029_1_0.jpg
+Added Frontal Image Count: 26 - 030 - 0.94236624 - IBUG_image_030_0.jpg
+Added Frontal Image Count: 27 - 031 - 0.905467 - IBUG_image_031_0.jpg
+Added Frontal Image Count: 28 - 033 - 0.9068901 - IBUG_image_033_1_0.jpg
+Added Frontal Image Count: 29 - 034 - 0.9277557 - IBUG_image_034_1_0.jpg
+Added Frontal Image Count: 30 - 035 - 0.92370415 - IBUG_image_035_0.jpg
+Added Frontal Image Count: 31 - 036 - 0 - IBUG_image_036_0.jpg Low Confidence! 
+Added Frontal Image Count: 32 - 037 - 0.90170646 - IBUG_image_037_1_0.jpg
+Added Frontal Image Count: 33 - 038 - 0.91303295 - IBUG_image_038_0.jpg
+Added Frontal Image Count: 34 - 039 - 0 - IBUG_image_039_0.jpg Low Confidence! 
+Added Frontal Image Count: 35 - 040 - 0 - IBUG_image_040_0.jpg Low Confidence! 
+Added Frontal Image Count: 36 - 041 - 0 - IBUG_image_041_1_0.jpg Low Confidence! 
+Added Frontal Image Count: 37 - 042 - 0.92730105 - IBUG_image_042_0.jpg
+Added Frontal Image Count: 38 - 043 - 0 - IBUG_image_043_1_0.jpg Low Confidence! 
+Added Frontal Image Count: 39 - 044 - 0.9114646 - IBUG_image_044_0.jpg
+Added Frontal Image Count: 40 - 045 - 0 - IBUG_image_045_1_0.jpg Low Confidence! 
+Added Frontal Image Count: 41 - 046 - 0.93977606 - IBUG_image_046_0.jpg
+Added Frontal Image Count: 42 - 047 - 0.91783977 - IBUG_image_047_1_0.jpg
+Added Frontal Image Count: 43 - 048 - 0.93923604 - IBUG_image_048_0.jpg
+Added Frontal Image Count: 44 - 049 - 0 - IBUG_image_049_1_0.jpg Low Confidence! 
+Added Frontal Image Count: 45 - 050 - 0.93202794 - IBUG_image_050_0.jpg
+Added Frontal Image Count: 46 - 051 - 0.91942465 - IBUG_image_051_1_0.jpg
+Added Frontal Image Count: 47 - 052 - 0.9294292 - IBUG_image_052_1_0.jpg
+Added Frontal Image Count: 48 - 053 - 0.9274201 - IBUG_image_053_0.jpg
+Added Frontal Image Count: 49 - 054 - 0.9431208 - IBUG_image_054_0.jpg
+Added Frontal Image Count: 50 - 055 - 0 - IBUG_image_055_0.jpg Low Confidence! 
+Added Frontal Image Count: 51 - 056 - 0.92249507 - IBUG_image_056_0.jpg
+Added Frontal Image Count: 52 - 057 - 0.90485513 - IBUG_image_057_1_0.jpg
+Added Frontal Image Count: 53 - 058 - 0.9177115 - IBUG_image_058_0.jpg
+Added Frontal Image Count: 54 - 059 - 0.91995186 - IBUG_image_059_0.jpg
+Added Frontal Image Count: 55 - 060 - 0.92524403 - IBUG_image_060_1_0.jpg
+Added Frontal Image Count: 56 - 061 - 0.9350331 - IBUG_image_061_1_0.jpg
+Added Frontal Image Count: 57 - 062 - 0.9426051 - IBUG_image_062_1_0.jpg
+Added Frontal Image Count: 58 - 063 - 0.93280077 - IBUG_image_063_0.jpg
+Added Frontal Image Count: 59 - 064 - 0.91792876 - IBUG_image_064_1_0.jpg
+Added Frontal Image Count: 60 - 065 - 0.94219464 - IBUG_image_065_1_0.jpg
+Added Frontal Image Count: 61 - 066 - 0.9132187 - IBUG_image_066_1_0.jpg
+Added Frontal Image Count: 62 - 067 - 0.91959083 - IBUG_image_067_1_0.jpg
+Added Frontal Image Count: 63 - 068 - 0.93000585 - IBUG_image_068_1_0.jpg
+Added Frontal Image Count: 64 - 069 - 0.9126458 - IBUG_image_069_1_0.jpg
+Added Frontal Image Count: 65 - 070 - 0.9339191 - IBUG_image_070_0.jpg
+Added Frontal Image Count: 66 - 071 - 0.90092564 - IBUG_image_071_1_0.jpg
+Added Frontal Image Count: 67 - 072 - 0.9277204 - IBUG_image_072_1_0.jpg
+Added Frontal Image Count: 68 - 073 - 0.9270454 - IBUG_image_073_0.jpg
+Added Frontal Image Count: 69 - 074 - 0.9375846 - IBUG_image_074_0.jpg
+Added Frontal Image Count: 70 - 075 - 0 - IBUG_image_075_0.jpg Low Confidence! 
+Added Frontal Image Count: 71 - 076 - 0.92888 - IBUG_image_076_1_0.jpg
+Added Frontal Image Count: 72 - 077 - 0.9358924 - IBUG_image_077_0.jpg
+Added Frontal Image Count: 73 - 078 - 0.912051 - IBUG_image_078_1_0.jpg
+Added Frontal Image Count: 74 - 080 - 0.93760765 - IBUG_image_080_1_0.jpg
+Added Frontal Image Count: 75 - 081 - 0.948242 - IBUG_image_081_0.jpg
+Added Frontal Image Count: 76 - 082 - 0.9309888 - IBUG_image_082_0.jpg
+Added Frontal Image Count: 77 - 083 - 0 - IBUG_image_083_2_0.jpg Low Confidence! 
+Added Frontal Image Count: 78 - 084 - 0.9297613 - IBUG_image_084_0.jpg
+Added Frontal Image Count: 79 - 085 - 0.9361262 - IBUG_image_085_0.jpg
+Added Frontal Image Count: 80 - 086 - 0.9316101 - IBUG_image_086_1_0.jpg
+Added Frontal Image Count: 81 - 087 - 0.9271178 - IBUG_image_087_0.jpg
+Added Frontal Image Count: 82 - 088 - 0.93999434 - IBUG_image_088_0.jpg
+Added Frontal Image Count: 83 - 089 - 0.933542 - IBUG_image_089_0.jpg
+Added Frontal Image Count: 84 - 090 - 0.9393805 - IBUG_image_090_1_0.jpg
+Added Frontal Image Count: 85 - 091 - 0.9378143 - IBUG_image_091_0.jpg
+Added Frontal Image Count: 86 - 092  - 0.92977875 - IBUG_image_092 _01_0.jpg
+Added Frontal Image Count: 87 - 092 - 0.93268436 - IBUG_image_092_0.jpg
+Added Frontal Image Count: 88 - 093 - 0.93012017 - IBUG_image_093_0.jpg
+Added Frontal Image Count: 89 - 094 - 0.93422204 - IBUG_image_094_0.jpg
+Added Frontal Image Count: 90 - 095 - 0.9084993 - IBUG_image_095_0.jpg
+Added Frontal Image Count: 91 - 096 - 0.9145784 - IBUG_image_096_0.jpg
+Added Frontal Image Count: 92 - 097 - 0.9326002 - IBUG_image_097_1_0.jpg
+Added Frontal Image Count: 93 - 09 - 0.9331994 - IBUG_image_09_0.jpg
+Added Frontal Image Count: 94 - 100 - 0.935221 - IBUG_image_100_0.jpg
+Added Frontal Image Count: 95 - 101 - 0.93669814 - IBUG_image_101_0.jpg
+Added Frontal Image Count: 96 - 102 - 0 - IBUG_image_102_0.jpg Low Confidence! 
+Added Frontal Image Count: 97 - 103 - 0.91842335 - IBUG_image_103_0.jpg
+Added Frontal Image Count: 98 - 104 - 0.9217964 - IBUG_image_104_0.jpg
+Added Frontal Image Count: 99 - 105 - 0.93639964 - IBUG_image_105_0.jpg
+Added Frontal Image Count: 100 - 106 - 0.90778875 - IBUG_image_106_0.jpg
+Added Frontal Image Count: 101 - 107 - 0 - IBUG_image_107_0.jpg Low Confidence! 
+Added Frontal Image Count: 102 - 108 - 0.9268378 - IBUG_image_108_0.jpg
+Added Frontal Image Count: 103 - 109 - 0.9133475 - IBUG_image_109_0.jpg
+Added Frontal Image Count: 104 - 110 - 0.93803287 - IBUG_image_110_0.jpg
+Added Frontal Image Count: 105 - 111 - 0.92921484 - IBUG_image_111_0.jpg
+Added Frontal Image Count: 106 - 112 - 0.90940416 - IBUG_image_112_0.jpg
+Added Frontal Image Count: 107 - 113 - 0.9289462 - IBUG_image_113_0.jpg
+Added Frontal Image Count: 108 - 114 - 0.90516895 - IBUG_image_114_0.jpg
+Added Frontal Image Count: 109 - 115 - 0.92087007 - IBUG_image_115_0.jpg
+Added Frontal Image Count: 110 - 116 - 0.92614937 - IBUG_image_116_0.jpg
+Added Frontal Image Count: 111 - 117 - 0.9186709 - IBUG_image_117_0.jpg
+Added Frontal Image Count: 112 - 118 - 0.9117019 - IBUG_image_118_0.jpg
+Added Frontal Image Count: 113 - 119 - 0.92052543 - IBUG_image_119_0.jpg
+Added Frontal Image Count: 114 - 99 - 0.9138774 - IBUG_image_99_0.jpg

@@ -1,0 +1,3 @@
+Added Frontal Image Count: 1 - 100040721 - 0.9417611 - HELEN_100040721_1_0.jpg
+Added Frontal Image Count: 2 - 1002681492 - 0.9473328 - HELEN_1002681492_1_0.jpg
+Added Frontal Image Count: 3 - 1004467229 - 0.9418719 - HELEN_1004467229_1_0.jpg
